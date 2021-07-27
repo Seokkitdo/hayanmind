@@ -24,6 +24,8 @@
   - react-infinite-scroller
   - axios
 
-### **구현 영상**
+### **구현 영상 및 배포 주소**
+
+배포주소 : https://seokkitdo.github.io/hayanmind/index.html
 
 ![hayanmind](https://user-images.githubusercontent.com/39605922/127191122-44c45c98-a23b-428a-8668-fd600978e567.gif)
