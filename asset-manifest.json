@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hayanmind/static/css/main.76996b83.chunk.css",
+    "main.js": "/hayanmind/static/js/main.9b83f842.chunk.js",
+    "main.js.map": "/hayanmind/static/js/main.9b83f842.chunk.js.map",
+    "runtime-main.js": "/hayanmind/static/js/runtime-main.8cafe1d2.js",
+    "runtime-main.js.map": "/hayanmind/static/js/runtime-main.8cafe1d2.js.map",
+    "static/js/2.efffb090.chunk.js": "/hayanmind/static/js/2.efffb090.chunk.js",
+    "static/js/2.efffb090.chunk.js.map": "/hayanmind/static/js/2.efffb090.chunk.js.map",
+    "static/js/3.fbdc8d80.chunk.js": "/hayanmind/static/js/3.fbdc8d80.chunk.js",
+    "static/js/3.fbdc8d80.chunk.js.map": "/hayanmind/static/js/3.fbdc8d80.chunk.js.map",
+    "index.html": "/hayanmind/index.html",
+    "static/css/main.76996b83.chunk.css.map": "/hayanmind/static/css/main.76996b83.chunk.css.map",
+    "static/js/2.efffb090.chunk.js.LICENSE.txt": "/hayanmind/static/js/2.efffb090.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cafe1d2.js",
+    "static/js/2.efffb090.chunk.js",
+    "static/css/main.76996b83.chunk.css",
+    "static/js/main.9b83f842.chunk.js"
+  ]
+}
